@@ -6,6 +6,7 @@
     border: rgb(185, 185, 185) solid 0.05rem;
     padding:0.2rem ;
     margin-left: 0.5rem;
+    cursor: pointer;
 }
 .down-icon {
     transform: rotate(90deg); 
@@ -20,11 +21,18 @@
     padding-top: 0.2rem;
     font-size: 0.3rem;
 }
+.min-title{
+    font-size: 0.4rem;
+}
 h3{
     padding-top: 0.2rem ;
     font-size: 0.6rem;
 
 }
+.border-left{
+border-left: solid rgb(235, 232, 232) 0.05rem ;
+}
+
 .max{
     padding-top: 0.3rem;
     font-size: 0.4rem;
@@ -70,4 +78,9 @@ h1{
 .margin-sides{
     margin-left: 0.5rem;
     margin-right: 0.5rem;
+}
+.list-style{
+    list-style-type:none;
+    opacity:0.4;
+    font-size: 0.3rem;
 }
