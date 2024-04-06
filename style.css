@@ -44,17 +44,29 @@ body{
 }
 
 .header-1-ul{
+    position: relative;
+    right: 5rem;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     align-items: end;
 
 }
+
 .header-1-il{
     padding-inline: 0.5rem;
     list-style: none;
+    font-weight: bold;
+    
 
 }
+.header-1-il:hover{
+    cursor: pointer;
+    color: black;
+     background-color: rgb(235, 235, 235);
+     opacity: 0.5;
+}
+
 .header-1-search{
     flex-grow: 0.7;
     font-weight: bold;
