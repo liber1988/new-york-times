@@ -1,0 +1,73 @@
+.btn{
+    background: #557A95;
+    color: white;
+    border-radius: 2px;
+    font-size: 0.4rem;
+    border: rgb(185, 185, 185) solid 0.05rem;
+    padding:0.2rem ;
+    margin-left: 0.5rem;
+}
+.down-icon {
+    transform: rotate(90deg); 
+}
+
+
+.p-par{
+    font-size: 0.4rem;
+    padding-top: 0.8rem;
+}
+.min{
+    padding-top: 0.2rem;
+    font-size: 0.3rem;
+}
+h3{
+    padding-top: 0.2rem ;
+    font-size: 0.6rem;
+
+}
+.max{
+    padding-top: 0.3rem;
+    font-size: 0.4rem;
+}
+.border{
+    border-bottom: rgb(202, 195, 195) solid  0.05rem;
+}
+.padding{
+    padding: 0.1rem;
+}
+.up10{
+    position: relative;
+    top: -0.5rem;
+    left: 0;
+}
+.move-right{
+    position: relative;
+    left: 0.3rem;
+
+}
+h1{
+    font-size: 0.4rem;
+}
+.image{
+    background-size:contain; 
+    background-position: center; 
+    background-clip: padding-box;
+    background-repeat: no-repeat;
+    width:90%;
+    margin: 0.6rem;
+}
+.image-2{
+    width:100%;
+    margin: 0.6rem;
+    padding: 0.5rem;
+    position: relative;
+    right: 0.5rem;
+
+}
+.nobold{
+    font-weight: normal;
+}
+.margin-sides{
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
